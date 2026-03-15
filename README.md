@@ -4,4 +4,4 @@ This repository contains a collection of experimental AI agents built using the 
 
 # Example Agents
 1. [Simple Agent](first_agent/README.md)
-2. [Blog Spot Agent](blog_spot_creator/README.md)
+2. [Web Page Summarizer](webpage_summarizer/README.md)
