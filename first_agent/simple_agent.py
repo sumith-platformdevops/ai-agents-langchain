@@ -25,3 +25,11 @@ results = agent.invoke(
     
 )
 print("Results:")
+# print(results['messages'][-1].content)
+# print(results['messages'])
+# for i in results['messages']:
+#     print('#################')
+#     print(i)
+# print(results)
+# print(type(results))
+print(results['structured_response'].agent_response)
